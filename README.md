@@ -1,6 +1,6 @@
 # README
 
-How to design, implement, test, and deploy image classifiers, with deep neural networks.
+How to design, implement, test, and deploy image classifiers with deep neural networks.
 
 ## What is this repository for?
 
@@ -80,3 +80,5 @@ Write
 * twitter: @daniel_berns
 * github: https://github.com/DanielBerns
 
+
+# https://www.mihaileric.com/posts/setting-up-a-machine-learning-project/

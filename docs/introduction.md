@@ -3,16 +3,17 @@
 
 
 A machine learning system has three highly related main components: data, software and hardware. 
-We want to develop and deploy a neural network able to classify images, or in other words assign a discrete label (from a set of N labels) to a given image.
+We want to develop and deploy a neural network for classifying images, assigning a discrete label (from a set of N labels) to a given image.
 A neural network is a function 
 Consider the following details:
 1. Data: a set of properly labelled images, divided in three subsets (training, validation, and testing)
-2. Software: at least three functions (train, predict, test) 
+2. Software: at least three functions (train, test, predict) 
 3. Hardware:
       how to capture images
       how to train and test
       how to predict
     
+
 
 /dataset/train
           ├── label_1
